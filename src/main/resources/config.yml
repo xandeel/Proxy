@@ -1,0 +1,4 @@
+whitelist: false
+no_whitelisted: "&cYou're not that awesome to be whitelisted."
+whitelisted:
+  - ""

@@ -1,0 +1,9 @@
+name: Proxy
+version: 1.5
+author: Sprite
+main: proxy.advance.club
+description: fork is EasyWhitelist
+commands:
+  easywhitelist:
+    usage: /<command>
+    aliases: [w,advw]
